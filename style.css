@@ -1,0 +1,77 @@
+/*
+Theme Name: Hello Elementor Child
+Theme URI: https://elementor.com/hello-theme/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash
+Template: hello-elementor
+Author: Elementor Team
+Author URI: https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash
+Description: Hello Elementor is a lightweight and minimalist WordPress theme that was built specifically to work seamlessly with the Elementor site builder plugin. The theme is free, open-source, and designed for users who want a flexible, easy-to-use, and customizable website. The theme, which is optimized for performance, provides a solid foundation for users to build their own unique designs using the Elementor drag-and-drop site builder. Its simplicity and flexibility make it a great choice for both beginners and experienced Web Creators.
+Tags: accessibility-ready,flexible-header,custom-colors,custom-menu,custom-logo,featured-images,rtl-language-support,threaded-comments,translation-ready
+Version: 3.0.1.1710921438
+Updated: 2024-03-20 07:57:18
+
+*/
+
+
+li#menu-item-38{
+    background-color: #DC9F96;
+}
+
+#menu-item-38 a.hfe-menu-item {
+    color: white;
+}
+
+
+.post-33{
+    background: #3B8E46;
+}
+
+.commande{
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+#formulaire{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.elementor-element.elementor-element-b9ceeae.e-flex.e-con-boxed.wpr-particle-no.wpr-jarallax-no.wpr-parallax-no.wpr-sticky-section-no.e-con.e-parent {
+    margin-top: 100px;
+}
+
+h2.elementor-heading-title.elementor-size-default {
+    margin-top: 100px;
+}
+
+.elementor-31 .elementor-element.elementor-element-77ff9ac.elementor-element {
+    left: 150px;
+}
+
+.elementor-element.elementor-element-e354566.elementor-widget__width-initial.elementor-widget.elementor-widget-text-editor {
+    left: 150px;
+}
+
+#fleur-rencontrer {
+    display: flex;
+    position: relative;
+    left: 120px;
+}
+
+.elementor-element.elementor-element-11e439d.e-grid.e-con-boxed.wpr-particle-no.wpr-jarallax-no.wpr-parallax-no.wpr-sticky-section-no.e-con.e-parent {
+    display: flex;
+    top: 30px;
+}
+
+.wpforms-title {
+    text-align: center;
+    font-family: 'Syne';
+}
+
+button#wpforms-submit-52 {
+    margin: auto;
+    /* position: static; */
+    display: block;
+}
+
